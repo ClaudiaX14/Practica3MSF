@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Claudia X. Castro [22212252]; l22212252@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
